@@ -1,4 +1,5 @@
 # akkaExample
+```
 $ sbt run
 [info] Set current project to Example#1 
 [info] Updating 
@@ -7,3 +8,4 @@ $ sbt run
 [info] Running Main 
 >> hello
 >> unhandled msg
+```
